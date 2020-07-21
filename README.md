@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Sam
 #### I am a software developer
-I am a software developer
 
 A passionate, self-motivated person who does coding, meditation, and sewing.
 
