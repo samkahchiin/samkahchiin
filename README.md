@@ -1,12 +1,11 @@
 ### Hi there 👋, My name is Sam
 #### I am a software developer
+[![Sam's github stats](https://github-readme-stats.vercel.app/api?username=samkahchiin)](https://github.com/anuraghazra/github-readme-stats)
+
 
 A passionate, self-motivated person who does coding, meditation, and sewing.
 
 Skills: Ruby on Rails/REACT / JS / HTML / CSS / AWS software develoeprs
-
-
-
 
 
 
