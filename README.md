@@ -1,13 +1,10 @@
 ### Hi there 👋, My name is Sam
 #### I am a software developer
 
-<img src="https://github.com/samkahchiin/samkahchiin/blob/master/banner.png" />](https://github.com/samkahchiin/samkahchiin/blob/master/banner.png)
+<img src="https://github.com/samkahchiin/samkahchiin/blob/master/banner.png" />
 
-
-A passionate, self-motivated person who does coding, meditation, and sewing.
-
-Skills: Ruby on Rails/REACT / JS / HTML / CSS / AWS software develoeprs
-
+- 🔭 I’m currently working on Ruby on Rails/REACT / JS / HTML / CSS / AWS
+- ⚡ Fun fact: Besides coding, I love meditations and sewing
 
 
 
@@ -16,7 +13,6 @@ Skills: Ruby on Rails/REACT / JS / HTML / CSS / AWS software develoeprs
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
