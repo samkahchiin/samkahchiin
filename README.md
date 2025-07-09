@@ -1,8 +1,6 @@
 ### Hi there 👋, My name is Sam
 #### I am a software developer
 
-<img src="https://github.com/samkahchiin/samkahchiin/blob/master/banner.png" />
-
 - 🔭 I’m currently working on Ruby on Rails/ REACT / JS / HTML / CSS / AWS
 - ⚡ Fun fact: Besides coding, I love meditations and sewing
 
